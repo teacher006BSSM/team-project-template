@@ -32,7 +32,7 @@
 
 | 단계 | 파일 | 정리 담당 | PR 리뷰어 |
 | --- | --- |-----------|-----------|
-| 0 | `docs/team/roles.md` | 안정은    | 팀원1      |
+| 0 | `docs/team/roles.md` | 안정은    | juliahn9    |
 | 1 | `docs/domain/01-first-look-glossary.md` |           |           |
 | 2 | `docs/domain/02-people-flow-benchmark.md` |           |           |
 | 3 | `docs/domain/03-rules-states-llm.md` |           |           |
